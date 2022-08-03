@@ -14,7 +14,7 @@ A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
 - [x] **Easy To Use**
 - [x] **For Replit**
 - [x] **Many More +**
-### Direct Replit Forl - [Click Here](https://replit.com/@AxeHelper/AutoOwOFarm?v=1)
+### Direct Replit Fork - [Click Here](https://replit.com/@AxeHelper/AutoOwOFarm?v=1)
 # Installation 
 1. **Clone This Repo To Replit**
 2. **Go To Commands > secrets**
