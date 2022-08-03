@@ -6,7 +6,7 @@ A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
 
 ## It Is Designed For Replit !
 
-### Secure Credentials will be in env
+### its Secure | Credentials will be in env
 
 # Features 
 - [x] **Ban Bypassed**
@@ -14,17 +14,17 @@ A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
 - [x] **Easy To Use**
 - [x] **For Replit**
 - [x] **Many More +**
-
+### Direct Replit Forl - [Click Here](https://replit.com/@AxeHelper/AutoOwOFarm?v=1)
 # Installation 
 1. **Clone This Repo To Replit**
 2. **Go To Commands > secrets**
 3. **Add A Env As A Key Name 'Token' And Value As Your Discord Account Token -- If You Don't Know Your Token Watch my YouTube video for tutorial link below!** 
-### Tutorial Of Token - [Click Here](https://ComingSoon)
+### Tutorial Of Token - [Click Here](https://youtu.be/bixC0tQl_Wg)
 
-5. **Save It**
-6. **Run The Repl**
-7. **It Will Ask For You prefix | Enter An Prefix For The Bot**
-8. **You Done! Type (prefix)help for help command**
-9. **Use Uptimer Robot to 24/7 This Bot Or Use My Uptimer Bot Link Below!**
-### Uptimer Bot Invite Link - [Click Here](CommingSoon)
-### YouTube Channel - [Click Here]()
+4. **Save It**
+5. **Run The Repl**
+6. **It Will Ask For You prefix | Enter An Prefix For The Bot**
+7. **You Done! Type (prefix)help for help command**
+8. **Use Uptimer Robot to 24/7 This Bot Or Use My Uptimer Bot Link Below!**
+### Uptimer Bot Invite Link - [Click Here](https://discord.com/oauth2/authorize?client_id=1003002613098369186&permissions=8&scope=bot)
+### YouTube Channel - [Click Here](https://youtube.com/channel/UCMEhNSLa2O6WQqtqpjwu-sw)
