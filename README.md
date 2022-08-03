@@ -18,7 +18,7 @@ A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
 # Installation 
 1. **Clone This Repo To Replit**
 2. **Go To Commands > secrets**
-3. **Add A Env As A Key Name 'Token' And Value As Your Discord Account Token -- If You Don't Know Your Token Watch my YouTube video for tutorial link below!** 
+3. **Add A Env As A Key Name `Token` And Value As Your Discord Account Token -- If You Don't Know Your Token Watch my YouTube video for tutorial link below!** 
 ### Tutorial Of Token - [Click Here](https://youtu.be/bixC0tQl_Wg)
 
 4. **Save It**
