@@ -8,7 +8,8 @@ from webserver import keep_alive
 import os
 
 prefix = input(f'Enter Prefix: ')
-token = input(f'token: ')
+token = input(f'token:"OTcyNTIyOTQ0MTA0MzcwMTk2.G422io.GYaVmLAZ9fAjSkPwjFq3vDoh3XMpOaZUYYXlnI"
+ ')
 
 
 #---------------#
