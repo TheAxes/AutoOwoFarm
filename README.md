@@ -1,3 +1,5 @@
+# Updated Verison Advanced ( Working )
+- https://github.com/TheAxes/Advance-Auto-Owo.git
 # AutoOwoFarm
 A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
 
